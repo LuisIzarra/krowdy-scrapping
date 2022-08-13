@@ -1,4 +1,269 @@
 {
   "profiles": [
+    {
+      "urlsCandidates": [
+        {
+          "raw": "https://www.linkedin.com/in/dany-carrillo-jara-5a6963119?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB2B-Y4B6j4Tjwn0MGX1I6pzZGMxs2o28uo",
+          "nameCandidate": "Dany Carrillo Jara",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAB2B-Y4B6j4Tjwn0MGX1I6pzZGMxs2o28uo"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/ulicesma?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACTsaqIBX2hIzgt7UkEGQ-88DoCzeVK4rSc",
+          "nameCandidate": "Ulices Meléndez Acosta",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACTsaqIBX2hIzgt7UkEGQ-88DoCzeVK4rSc"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/renzo-r-2b7a9692?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABO82ysBSMr2vp5XUSuAHnzASNd4TO1zCe0",
+          "nameCandidate": "Renzo R.",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABO82ysBSMr2vp5XUSuAHnzASNd4TO1zCe0"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/jotac1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAaRncMBFTTvv34K46OBvv-T4uM9pN8qJX0",
+          "nameCandidate": "Juan Jose Caro Salazar",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAAaRncMBFTTvv34K46OBvv-T4uM9pN8qJX0"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/norvil-stalin-guevara-torres-438987184?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACuSJawB9sGbXfFl1OtR7Shshi6ia1YvIjM",
+          "nameCandidate": "Norvil Stalin Guevara Torres",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACuSJawB9sGbXfFl1OtR7Shshi6ia1YvIjM"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/wilmerdelgadoalama?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADDRnnMB47zSFCpYDQEs3_HOfdMwKLwsK58",
+          "nameCandidate": "Wilmer Delgado",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADDRnnMB47zSFCpYDQEs3_HOfdMwKLwsK58"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/alberto-camilo-rodr%C3%ADguez-vizcarra-67a967148?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACO8xP4BeatLCOVJbr_lQY6vLCIbvpWUGzU",
+          "nameCandidate": "Alberto Camilo Rodríguez Vizcarra",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACO8xP4BeatLCOVJbr_lQY6vLCIbvpWUGzU"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/lorenarojasbello?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACVhPwABPJGEmaBoYVUng-rSSElRnybdPe8",
+          "nameCandidate": "Lorena Rojas Bello",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACVhPwABPJGEmaBoYVUng-rSSElRnybdPe8"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/simon6baravell624106?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACelCMkBThWZOwsT7XG_SWzshGC7beTwmUk",
+          "nameCandidate": "Simone Baravelli",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACelCMkBThWZOwsT7XG_SWzshGC7beTwmUk"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/freddy-enrique-rodriguez-andrade?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC5MiWEBlGQhbplX8-rlcZf_DVNDkFxLwB4",
+          "nameCandidate": "Freddy Enrique Rodriguez Andrade",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAC5MiWEBlGQhbplX8-rlcZf_DVNDkFxLwB4"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/piero-sandro-0206?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADE17_kBJj4XmHhDKVQ-24OXAdpYNAsv678",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADE17_kBJj4XmHhDKVQ-24OXAdpYNAsv678"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/jadirhervias?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACyR-FMBS1xehN3t-KXLZsHCBlMG6deOE7c",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACyR-FMBS1xehN3t-KXLZsHCBlMG6deOE7c"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/danielarturoalejoalvarez?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA2ef0wBtNU67mndKuM21IHX3lVNJpux8lY",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAA2ef0wBtNU67mndKuM21IHX3lVNJpux8lY"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/anthony-stewardt-sanchez-yupanqui-62751b1b5?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADIWqr8BHiXf0oV2zCTVm306h5uGfS1mYEE",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADIWqr8BHiXf0oV2zCTVm306h5uGfS1mYEE"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/almendra-estrada?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABE5h78BWbXzoSQLqZSBW0hTTMnWQcEDqlQ",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABE5h78BWbXzoSQLqZSBW0hTTMnWQcEDqlQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/joelvizcarra?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACXCwuMBAWl_smyQZ-1BUht3886ninHkygE",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACXCwuMBAWl_smyQZ-1BUht3886ninHkygE"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/robert-aaron-urbina-ruiz-5b78b1140?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACJN5RsBIITX1Zlach4tMw4Ymfm4DbJPj0E",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACJN5RsBIITX1Zlach4tMw4Ymfm4DbJPj0E"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/mcra02?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC5fiDsBY1FPZy3O7FYwYohh4iWuP6t6IC4",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAC5fiDsBY1FPZy3O7FYwYohh4iWuP6t6IC4"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/jorge-jos%C3%A9-onton-rodr%C3%ADguez-078216176?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACmtsdwBdxpZQ4hSq0xePg0YIHMb7OsK7-4",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACmtsdwBdxpZQ4hSq0xePg0YIHMb7OsK7-4"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/jairo-pescador-55953b14a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACQH3FUBoHd6J015wKbBc-60iq_PHtr3t-w",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACQH3FUBoHd6J015wKbBc-60iq_PHtr3t-w"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/eliasbobadilla?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAesXUcBo_jZlvBQGsALC0GatN0YL8fuJUA",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAAesXUcBo_jZlvBQGsALC0GatN0YL8fuJUA"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/americo-cueva?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABm_-pUBpUmFB1QONQuFUWGoWsoJ1qWPeLw",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABm_-pUBpUmFB1QONQuFUWGoWsoJ1qWPeLw"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/jaimevalenciaq?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAComdr0BVItwnqCWggXhBaOGxNK6FK25OT0",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAComdr0BVItwnqCWggXhBaOGxNK6FK25OT0"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/albert-castellano?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAw9Gl4BRFzR9VyrS0heCIqvcOlxRMD9kq8",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAAw9Gl4BRFzR9VyrS0heCIqvcOlxRMD9kq8"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/ditxonmilan37?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAClEQ3wBxwaJhWS1AkeKVOP0jGGdaGkfkWY",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAClEQ3wBxwaJhWS1AkeKVOP0jGGdaGkfkWY"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/jun-naruse?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACR34m0BInfPXRPIDz6lIeiFII3vwOynAuo",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACR34m0BInfPXRPIDz6lIeiFII3vwOynAuo"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/david-angel-damian-melendez?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACLdngkBqjAl8zws65KUx_0y22hzmEmbe_Q",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACLdngkBqjAl8zws65KUx_0y22hzmEmbe_Q"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/mmoises-moreno?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABKz0xkBrxyW6_SijlN-K6QJiO9qVX0ElpQ",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABKz0xkBrxyW6_SijlN-K6QJiO9qVX0ElpQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/marco-antonio-rodr%C3%ADguez-macedo-b50254163?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACcDfmwBdPgQ7KuFezQHDmHTDYGYFNNOEqc",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACcDfmwBdPgQ7KuFezQHDmHTDYGYFNNOEqc"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/antony-percy-pi%C3%B1a-silva-74267189?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABLJGeIBaQbWZ4wVmpSr985jfxcAsKfRpPM",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABLJGeIBaQbWZ4wVmpSr985jfxcAsKfRpPM"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/eduflores?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAASM8EgBut8F-SXg91gEeSBTb-dRcO-V2Qg",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAASM8EgBut8F-SXg91gEeSBTb-dRcO-V2Qg"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/henrryp?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADGxw8YBePaRRWeNrPZTTGh1PvVEE81maGk",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADGxw8YBePaRRWeNrPZTTGh1PvVEE81maGk"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/juanpablocs?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAmFlC4BrA3iL0R3cBAABHrm0pj984UN0gc",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAAmFlC4BrA3iL0R3cBAABHrm0pj984UN0gc"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/diego-ipurre-044783115?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABzEwHQBLPSMuUHgFJ05nbGWFtf_cJVXJjQ",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABzEwHQBLPSMuUHgFJ05nbGWFtf_cJVXJjQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/deivy-sanchez-coronado-aa21b1170?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACibk9oBSz37GPhdLDV1_sFT0YwnIfRkYwM",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACibk9oBSz37GPhdLDV1_sFT0YwnIfRkYwM"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/yhomiraalexandrayupayccanalopa?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACZvOwwB2bSHZ7jWTnmMUFNwD5Bc8i6-emE",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACZvOwwB2bSHZ7jWTnmMUFNwD5Bc8i6-emE"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/diegoantonioquirozramirez?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACEFmCwBnyswv7yLovjIuCxuDgfTJoFxaNM",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACEFmCwBnyswv7yLovjIuCxuDgfTJoFxaNM"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/rodrigoberrios?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACxW1FEBRT2A1B88nGrCMsmGIqN40emQT0w",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACxW1FEBRT2A1B88nGrCMsmGIqN40emQT0w"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/jhon-phileppe-reyes-flores?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB7BSSQBX-TlZn8tSma9bOWssFbbITs2kDA",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAB7BSSQBX-TlZn8tSma9bOWssFbbITs2kDA"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/katherinecarreradiaz?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACCdc-kBMrJ61A-pldvSoNQYVDTZ16oYjic",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACCdc-kBMrJ61A-pldvSoNQYVDTZ16oYjic"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/dgomezda?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAnTi2cBDN_lmhVn6jlKaORpS18EnFd3LEE",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAAnTi2cBDN_lmhVn6jlKaORpS18EnFd3LEE"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/hugo-valenza-medrano?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABBWdCUB7UT3erifWENpQPM6YyVbFXKCn8Q",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABBWdCUB7UT3erifWENpQPM6YyVbFXKCn8Q"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/joaquin-roldan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB67CWkBXd_kNsBDk52l-TmTfe-yItV1w8s",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAB67CWkBXd_kNsBDk52l-TmTfe-yItV1w8s"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/miguel-angel-rojas-diaz-b5749a172?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACkBsvMBRAm0TYLIoRu0bW3NLxOXpzNtDgw",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACkBsvMBRAm0TYLIoRu0bW3NLxOXpzNtDgw"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/granadosdavid?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABgmwrQBe4EpFU4c7v9CA0JvqqXYhijRUU8",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABgmwrQBe4EpFU4c7v9CA0JvqqXYhijRUU8"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/kissmark-rivas-993033177?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACnUPL8BnvNG_K9J5D2bbrXHjsoHOMgE364",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACnUPL8BnvNG_K9J5D2bbrXHjsoHOMgE364"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/paulo-c%C3%A9sar-carbajal-jim%C3%A9nez-027a501b6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADJYLR8B2ya8Za15G3ucOrBg3zofMcjf5G8",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADJYLR8B2ya8Za15G3ucOrBg3zofMcjf5G8"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/kenny-misael-otoya-flores-359749b3?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABgjBrUBa-33cqDODeKtR_Y5XOb54AB_9oQ",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABgjBrUBa-33cqDODeKtR_Y5XOb54AB_9oQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/linomackay?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABJrhHMBIZhMppzHxbN1FnhJ4rzxlocbDC0",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABJrhHMBIZhMppzHxbN1FnhJ4rzxlocbDC0"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/victor-salcedo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB-1YgMBScrEbNmbsvOyBPDTndvz5Vilaa0",
+          "experienceCandidate": "\n        Senior Fullstack Engineer | Freelance\n      ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAB-1YgMBScrEbNmbsvOyBPDTndvz5Vilaa0"
+        }
+      ],
+      "id": 1
+    }
   ]
 }
