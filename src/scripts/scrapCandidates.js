@@ -47,7 +47,6 @@ async function initV2(keywords = "fullstack", startPaginate = 0) {
           return {
             raw,
             nameCandidate,
-            experienceCandidate,
             profileVar: profileVar.replace("miniP", "p").replace("Afs", "Afsd"),
           };
         }) ?? [];
